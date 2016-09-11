@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+#debugger
+gem 'pry-byebug', group: :development
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7.1'
